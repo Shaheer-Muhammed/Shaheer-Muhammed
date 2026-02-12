@@ -15,7 +15,8 @@
 
 ```bash
 > whoami
-shaheer_muhammad
+Shaheer Muhammad (aka S1NWAR)
+
 
 > role
 cybersecurity_engineer_in_progress
