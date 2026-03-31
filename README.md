@@ -15,7 +15,7 @@
 
 ```bash
 > whoami
-Shaheer Muhammad (aka S1NWAR)
+Shaheer Mohamed (aka S1NWAR)
 
 
 > role
