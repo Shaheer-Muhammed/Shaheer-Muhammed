@@ -1,6 +1,6 @@
 <div align="center">
 
-#   SHAHEER MUHAMMAD
+#   SHAHEER MOHAMED
 ### Cybersecurity Engineer | Python Developer | Offensive Security Track
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55%"/>
